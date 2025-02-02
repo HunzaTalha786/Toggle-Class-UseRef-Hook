@@ -18,7 +18,7 @@ body{
   margin: auto;
 }
 .active {
-background-image: url('images/bg4.jpg');
+background-image: url('/images/bg4.jpg');
 }
 button{
   background-color: rgb(100, 47, 100);
